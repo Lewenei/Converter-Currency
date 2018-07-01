@@ -1,0 +1,21 @@
+body, html {
+    height :100%!important;
+
+}
+.bgnd {
+    background-image: url("../images/bg.png")!important;
+    height:100%!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+}
+.jumbotron {
+    background-color: rgba(10, 10,10, 0.1)
+}
+.formctrl {
+    font-size: 45px!important;
+    color: white!important;
+}
+.bgnd1 {
+    background-color: rgba(181, 226, 17, 0.801);
+}
